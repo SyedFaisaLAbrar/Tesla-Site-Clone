@@ -16,7 +16,7 @@
     <div class="navbar">
 
         <div class="navbar-left">
-            <a href="index.php"><img src="./img/name-logo-2.png " ></img></a>
+            <a href="index.html"><img src="./img/name-logo-2.png " ></img></a>
         </div>
 
         <div class="navbar-right">

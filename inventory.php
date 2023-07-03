@@ -8,7 +8,7 @@ session_start();
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="inventry.css" rel="stylesheet">
+    <link href="inventory.css" rel="stylesheet">
     <link rel="icon" type="image/x-icon" href="./img/round-logo-t.png">
     <title>Inventry - Tesla</title>
 
@@ -19,13 +19,13 @@ session_start();
     <div class="navbar">
 
         <div class="navbar-left">
-            <a href="index.html"><img src="./img/name-logo-2.png "></img></a>
+            <a href="index.php"><img src="./img/name-logo-2.png "></img></a>
         </div>
 
         <div class="navbar-right">
             <ul>
             <li><a href="cyber_truck.php">Cyber Truck</a></li>
-                <li><a href="inventry.php">Inventory</a></li>
+                <li><a href="inventory.php">Inventory</a></li>
                 <li><a href="shop.php">Shop</a></li>
                 <li><a href="contact_us.php">Contact Us</a></li>
                 <li><a href="account.php">Account</a></li>
@@ -37,7 +37,28 @@ session_start();
     <div class="inventry-content">
 
         <div class="vehicles-sidebar">
+            <div class="first-section">
+                <h2>Available Paints</h2>
+                <div class="colors">
+                    <img src="img/paints/white.png">
+                    <img src="img/paints/black.png" style="width:41px;"></img>
+                    <img src="img/paints/red.png">
+                    <img src="img/paints/blue.png">
+                    <img src="img/paints/grey.png">
+                </div>
+                
+                <div class="models">
+
+                    <h2>Available Models</h2>
+                    <ul>
+                        <li>Model S   &nbsp;    Model X</li>
+                        <li>Model 3    &nbsp; &nbsp;   Model Y</li>
+                    </ul>
+                </div>
+            </div>
         </div>
+
+
         <div class="vehicles">
             <h2>Experience Your Dream Ride</h2>
             <div class="vehicle-items">

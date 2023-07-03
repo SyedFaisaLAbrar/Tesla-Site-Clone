@@ -18,7 +18,7 @@
         <div class="navbar-right">
             <ul>
             <li><a href="cyber_truck.php">Cyber Truck</a></li>
-                <li><a href="inventry.php">Inventory</a></li>
+                <li><a href="inventory.php">Inventory</a></li>
                 <li><a href="shop.php">Shop</a></li>
                 <li><a href="contact_us.php">Contact Us</a></li>
                 <li><a href="account.php">Account</a></li>

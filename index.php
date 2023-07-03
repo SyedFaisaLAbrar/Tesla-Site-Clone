@@ -20,7 +20,7 @@
         <div class="navbar-right">
             <ul>
             <li><a href="cyber_truck.php">Cyber Truck</a></li>
-                <li><a href="inventry.php">Inventory</a></li>
+                <li><a href="inventory.php">Inventory</a></li>
                 <li><a href="shop.php">Shop</a></li>
                 <li><a href="contact_us.php">Contact Us</a></li>
                 <li><a href="account.php">Account</a></li>
@@ -58,7 +58,7 @@
                     
                     <div class="box">
                         <div class="box-content-upper">
-                            <a href="inventry.php"><img class="box-img" src="./img/vehical.jpg" width="240px"></a>
+                            <a href="inventory.php"><img class="box-img" src="./img/vehical.jpg" width="240px"></a>
                         </div>
                         <div class="box-content-lower">
                             <h2>Vechicles</h2>
@@ -91,7 +91,7 @@
         <div class="item3">
             <div class="item3-content">
                 <h2>Model Y</h2>
-                <a href="#" class="OrderNow">Order Now</a>
+                <a href="inventory.php" class="OrderNow">Order Now</a>
                 <a href="demo_drive.php" class="DemoDrive">Demo Drive</a>
 
             </div>
@@ -99,7 +99,7 @@
         <div class="item4">
             <div class="item4-content">
                 <h2>Model X</h2>
-                <a href="#" class="OrderNow4">Order Now</a>
+                <a href="inventory.php" class="OrderNow4">Order Now</a>
                 <a href="demo_drive.php" class="DemoDrive4">Demo Drive</a>
                 
             </div>
@@ -131,8 +131,8 @@
         <div class="footer-content">
             <div class="list">
                 <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="contact_us.php">Contact Us</a></li>
+                    <li><a href="index.php">Home</a></li>
+                    <li><a href="contact_us.html">Contact Us</a></li>
                     <li><a href="privacy.php">Privacy Policy</a></li>
                     <li><a href="terms.php">Term And Conditions</a></li>
                     <li>Tesla 2023 &copy;</li>

@@ -387,9 +387,10 @@
 
 /* ------------------------------  5TH ROW --------------------------------*/
 .item5{
+
     grid-column: 1/6;
     grid-row: 5/6;
-    background: url(./img/home5.png);
+    background: url(img/cyber.png);
     background-repeat: no-repeat;
     background-size: 100% 720px;
 }
@@ -419,6 +420,7 @@
     grid-row: 2/3;
     grid-column: 1/6;
     color: rgb(56, 56, 56);
+    font-weight: 200;
 }
 .OrderNow5{
 

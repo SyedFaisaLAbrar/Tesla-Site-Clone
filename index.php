@@ -62,7 +62,7 @@
                         </div>
                         <div class="box-content-lower">
                             <h2>Vechicles</h2>
-                            <p class="box-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi officiis ipsum dolor, exercitationem aliquam, vitae harum deserunt in ad blanditiis labore voluptas quasi veniam omnis facilis illum eius.</p>
+                            <p class="box-para">Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.</p>
                         </div>
                     </div>
                     <div class="box">
@@ -71,17 +71,17 @@
                         </div>
                         <div class="box-content-lower">
                             <h2>Accessories</h2>
-                            <p class="box-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi officiis ipsum dolor, exercitationem aliquam, vitae harum deserunt in ad blanditiis labore voluptas quasi veniam omnis facilis illum eius.</p>
+                            <p class="box-para">The official Tesla Shop. Purchase Wall Connectors, chargers, adapters, vehicle accessories and Tesla branded merchandise, collectibles and clothing for women, men and children.</p>
                         </div>
                     </div>
             
                     <div class="box">
                         <div class="box-content-upper">
-                            <a href="solar_energy.html"><img class="box-img" src="./img/home6.png" width="240px"></a>
+                            <a href="cyber_truck.php"><img class="box-img" src="img/tesla-cybertruck.jpg" width="240px"></a>
                         </div>
                         <div class="box-content-lower">
-                            <h2>Solar Energy</h2>
-                            <p class="box-para">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Fuga nisi officiis ipsum dolor, exercitationem aliquam, vitae harum deserunt in ad blanditiis labore voluptas quasi veniam omnis facilis illum eius.</p>
+                            <h2>Cyber Truck</h2>
+                            <p class="box-para">VERSATILE UTILITY. With up to 3,500 pounds of payload capacity and adjustable air suspension, Cybertruck is the most powerful tool we have ever built.</p>
                         </div>
                     </div>
 
@@ -106,9 +106,9 @@
         </div>
         <div class="item5">
             <div class="item5-content">
-                <h2>Solar Roof</h2>
-                <h6>Produce Clean Energy From Your Roof</h6>
-                <a href="" class="OrderNow5">Order Now</a>
+                <h2>Cyber Truck</h2>
+                <h6>Cybertruck is the most powerful tool we have ever built.</h6>
+                <a href="cyber_truck.php" class="OrderNow5">View Details</a>
             </div>
         </div>
         <div class="item6">

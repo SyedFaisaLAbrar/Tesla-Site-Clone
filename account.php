@@ -45,6 +45,10 @@
                     <div class="footer">
                         <a href="login.php">LOGIN</a>
                         <a href="signup.php">SIGNUP</a>
+                        
+                    </div>
+                    <div class="admin">
+                        <a href="adminLogin.php" target="_blank">Admin</a>
                     </div>
                 </div>
         </div>

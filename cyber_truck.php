@@ -30,5 +30,12 @@
     <div class="cyber-video">
         <video src="vids/cyber_truck.mp4"  autoplay muted loop width="100%" class="vid"></video>
     </div>
+
+    <div class="contentcyber">
+        <div class="content">
+            <h1>Tesla - CYBERTRUCK</h1>
+            
+        </div>
+    </div>
 </body>
 </html>

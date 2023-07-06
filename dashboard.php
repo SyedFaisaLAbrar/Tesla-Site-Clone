@@ -57,22 +57,11 @@
                         ?>
                     </div>
                     <div class="footer">
-                        <a href="account.php" onclick="session_out()">Logout</a>
-                        <script>
-                            function session_out(){
-                                <?php
-                                    //session_unset()  removes all session variables
-                                    session_unset();
-                                    //session_destroy() destroys the session
-                                    session_destroy();
-                                ?>
-                            }
-                        </script>
+                        <a href="logout.php">Logout</a>
+                        
                     </div>
                 </div>
         </div>
-
-
 
         <div class="acc-box">
             

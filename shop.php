@@ -39,7 +39,7 @@
                     <img src="img/accessories/charger.png">
                 </div>
                 <div class="lower-section">
-                <a href="buyAccessories.php">
+                <a href="#">
                     <h2>Car Charger  <span>$550</span></h2>
                     <h3>
                         Multi Port for 2021 2022 2023 Tesla Model 3/Y,Multifunctional Tesla Accessories with Logo and Retractable Cable,Tesla USB hub 100% Fit Center Console Adapter,Gifts for Tesla Owners
@@ -58,7 +58,7 @@
                         </div>
                 </div>
                 <div class="lower-section">
-                <a href="buyAccessories.php">
+                <a href="#">
                     <h2>Wheels       <span>$250 - $350</span></h2>
                     <h3>We offer both 19” and 20” Tesla wheels in square fitments (same size front and rear) to allow Tesla owners the ability to rotate their tires. We also offer a staggered fitment for a more aggressive sporty look and better handling. </h3>
                 </a>
@@ -70,39 +70,13 @@
                     <img src="img/accessories/wallpowerbank.png">
                 </div>
                 <div class="lower-section">
-                    <a href="buyAccessories.php">
+                    <a href="#">
                 <h2>Wall Powerbank <span>$10,500</span></h2>
                 <h3>With easy installation and a minimalist design, Powerwall complements a variety of home styles and solar systems. The compact, all-in-one construction features versatile mounting options for indoor or outdoor spaces</h3>
             </a>
                 </div>
             </div>
-            <div class="box">
-                <div class="upper-section"></div>
-                <div class="lower-section">
-                <a href="buyAccessories.php">
-                <h2>Wall Powerbank</h2>
-                <h3>With easy installation and a minimalist design, Powerwall complements a variety of home styles and solar systems. The compact, all-in-one construction features versatile mounting options for indoor or outdoor spaces</h3>
-                </a>
-                </div>
-            </div>
-            <div class="box">
-                <div class="upper-section"></div>
-                <div class="lower-section">
-                <a href="buyAccessories.php">
-                <h2>Wall Powerbank</h2>
-                <h3>With easy installation and a minimalist design, Powerwall complements a variety of home styles and solar systems. The compact, all-in-one construction features versatile mounting options for indoor or outdoor spaces</h3>
-                    </a>
-                </div>
-            </div>
-            <div class="box">
-                <div class="upper-section"></div>
-                <div class="lower-section">
-                <a href="buyAccessories.php">
-                <h2>Wall Powerbank</h2>
-                <h3>With easy installation and a minimalist design, Powerwall complements a variety of home styles and solar systems. The compact, all-in-one construction features versatile mounting options for indoor or outdoor spaces</h3>
-                    </a>
-                </div>
-            </div>
+            
         </div>
 
         <div class="side-bar"></div>

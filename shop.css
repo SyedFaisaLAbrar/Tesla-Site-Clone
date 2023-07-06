@@ -70,7 +70,7 @@
     display: grid;
     grid-template-columns: 34% 33% 33%;
     grid-template-rows: 100px 410px 410px 410px;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }

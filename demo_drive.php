@@ -43,7 +43,7 @@
                 <input type="text" placeholder="Enter Phone " name="phone">
                 <select  name="country">
                     <option selected>--</option>
-                    <option value="australis">Australia</option>
+                    <option value="australia">Australia</option>
                     <option value="canada">Canada</option>
                     <option value="usa">USA</option>
                     <option value="pakistan">Pakisatn</option>

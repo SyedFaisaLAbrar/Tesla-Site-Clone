@@ -17,7 +17,7 @@
             if(mysqli_num_rows($retrive) > 0){
                 $record = mysqli_fetch_assoc($retrive);
 
-                $_SESSION['loggedIn'] = true;
+                
                 $_SESSION['session_name'] = $record['name'];
                 $_SESSION['session_email'] = $s_email;
                 $_SESSION['session_pass'] = $s_pass;
@@ -46,7 +46,7 @@
             $de = mysqli_query($con, $database_emails);
             
             if(mysqli_num_rows($de) > 0){
-                $_SESSION['loggedIn'] = false;
+                
                 header("Location:login.php");
                 exit();
             }
